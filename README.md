@@ -122,7 +122,7 @@ Compare total profit vs total possible profit
 
 These requirements guided the DW schema and ETL decisions.
 
-📁 Repository Structure (Suggested)
+📁 Data Warehouse Development
 /src
   /etl_scripts.sql
   /dq_rules.sql
@@ -137,6 +137,7 @@ These requirements guided the DW schema and ETL decisions.
 /presentation
   DW - Presentation.pptx
   Report_PowerBI.pbix
+/sales_AU_NZ(sampleData).sql
 README.md
 
 
