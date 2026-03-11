@@ -14,7 +14,7 @@ Enable advanced reporting (OLAP cubes, dashboards, and aggregated insights)
 🏗️ System Architecture
 Source System
 
-Existing OLTP system running on MS SQL Server
+Existing OLTP system running on MS Access Server
 
 Target System
 
