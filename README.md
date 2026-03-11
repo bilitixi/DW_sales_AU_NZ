@@ -1,10 +1,10 @@
 📊 Data Warehouse Development – Models Sales Company
 A complete ETL, DQ, and OLAP solution
+
 📌 Project Overview
 This repository contains the development artifacts, documentation, and implementation logic for a data warehouse designed for Models Sales Company.
 The primary objective is to replace their OLTP‑only reporting setup with a centralised OLAP solution capable of supporting complex sales analytics.
 🎯 Goals
-
 Build a full data warehouse (DW): schema, dimensions, facts, relationships
 Implement ETL pipelines using business rules for data quality
 Provide clean, validated, analysis‑ready data
